@@ -42,6 +42,11 @@
 			<artifactId>spring-cloud-aws-starter-sqs</artifactId>
 			<version>3.1.0</version>
 		</dependency>
+		<dependency>
+			<groupId>io.awspring.cloud</groupId>
+			<artifactId>spring-cloud-aws-starter-sns</artifactId>
+			<version>3.1.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>

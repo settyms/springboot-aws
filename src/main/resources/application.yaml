@@ -1,0 +1,21 @@
+server:
+  port: 8081
+
+spring:
+  cloud:
+    aws:
+      region:
+        static: us-east-1
+        profile:
+             name: spring_user
+      credentials:
+             profile:
+                  name: spring_user
+aws:
+  sns-topic-name: arn:aws:sns:us-east-1:794770169043:MyTopic
+  sqs-queue-name: DeepthiQueue
+  sqs-send-queue-name: test-send-queue
+
+
+
+

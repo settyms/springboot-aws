@@ -134,5 +134,8 @@
     <orderEntry type="library" scope="RUNTIME" name="Maven: io.netty:netty-resolver:4.1.107.Final" level="project" />
     <orderEntry type="library" name="Maven: software.amazon.awssdk:arns:2.21.12" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-messaging:6.1.4" level="project" />
+    <orderEntry type="library" name="Maven: io.awspring.cloud:spring-cloud-aws-starter-sns:3.1.0" level="project" />
+    <orderEntry type="library" name="Maven: io.awspring.cloud:spring-cloud-aws-sns:3.1.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:sns:2.21.12" level="project" />
   </component>
 </module>
