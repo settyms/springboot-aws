@@ -15,6 +15,9 @@ aws:
   sns-topic-name: arn:aws:sns:us-east-1:794770169043:MyTopic
   sqs-queue-name: DeepthiQueue
   sqs-send-queue-name: test-send-queue
+  s3:
+    bucket: deepthi-s3-bucket
+
 
 
 
